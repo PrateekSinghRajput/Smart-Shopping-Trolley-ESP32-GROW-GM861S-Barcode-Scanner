@@ -18,8 +18,4 @@ By utilizing an **ESP32** microcontroller and a **GROW-GM861S** barcode scanner,
 * **Power:** 3.7V 18650 Li-ion Battery and Battery Holder
 * **Miscellaneous:** Custom PCB / Perfboard, jumper wires, and passive components.
 
-## 🚀 Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/PrateekSinghRajput/Smart-Shopping-Trolley-ESP32-GROW-GM861S-Barcode-Scanner.git](https://github.com/PrateekSinghRajput/Smart-Shopping-Trolley-ESP32-GROW-GM861S-Barcode-Scanner.git)
+<img width="1280" height="720" alt="JDE" src="https://github.com/user-attachments/assets/c1962d72-446c-4a1d-9682-32ce516127b4" />
